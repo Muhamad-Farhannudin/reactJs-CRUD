@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "farhan",
+      "email": "farhan@gmail.com",
+      "phone": "089630072959"
+    },
+    {
+      "id": 2,
+      "name": "putri",
+      "email": "putri23@gmail.com",
+      "phone": "08952662621",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Anwar",
+      "email": "anwar@gmail.com",
+      "phone": "0813211326949",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "lisda",
+      "email": "lisda23@yahoo.com",
+      "phone": "08999887735621",
+      "active": true
+    }
+  ]
+}
